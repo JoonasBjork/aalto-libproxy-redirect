@@ -8,6 +8,7 @@
 // @match        https://link.springer.com/*
 // @match        https://www.talouselama.fi/*
 // @match        https://www.tekniikkatalous.fi/*
+// @match        https://www.kauppalehti.fi/*
 // @grant        none
 // ==/UserScript==
 
